@@ -4,5 +4,5 @@
 * [時間](time.md)
 * [溝通](communicate.md)
 * [藝術](art.md)
-* [開放](openness)
+* [開放](openness.md/開放)
 
