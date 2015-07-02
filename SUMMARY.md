@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* 時間
+* [時間](time.md)
 
